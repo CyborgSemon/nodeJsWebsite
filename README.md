@@ -14,7 +14,7 @@ node server
 ```
 Then go to your browser and open up `localhost:3000`
 
-#### Usage
+## Usage
 
 Notice that there is a file called `blockedFile.html` in the repo. This file is imposable to open inside `localhost`. To see the server in action, you need to add `blockedFile.html` to the `alowedFiles` variable inside `server.js` in this format.
 ```js
@@ -27,6 +27,6 @@ Notice that there is a file called `blockedFile.html` in the repo. This file is 
 
 Any other file additions to the `alowedFiles` variable need to follow that format otherwise they wont be served to the user.
 
-#### Supported file types
+## Supported file types
 
 This system should work for all of the MIME media types. The most common types can be found here [https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types/Complete_list_of_MIME_types](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types/Complete_list_of_MIME_types)
