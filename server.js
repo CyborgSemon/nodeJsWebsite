@@ -11,6 +11,21 @@ http.createServer((req, res)=> {
 			type: 'text/html'
 		},
 		{
+			file: './panda.html',
+			url: '/panda.html',
+			type: 'text/html'
+		},
+		{
+			file: './space.html',
+			url: '/space.html',
+			type: 'text/html'
+		},
+		{
+			file: './summit.html',
+			url: '/summit.html',
+			type: 'text/html'
+		},
+		{
 			file: './css/main.css',
 			url: '/css/main.css',
 			type: 'text/css'
@@ -24,6 +39,21 @@ http.createServer((req, res)=> {
 			file: './images/js.jpg',
 			url: '/images/js.jpg',
 			type: 'image/jpeg'
+		},
+		{
+			file: './images/panda.jpg',
+			url: '/images/panda.jpg',
+			type: 'image/jpeg'
+		},
+		{
+			file: './images/space.png',
+			url: '/images/space.png',
+			type: 'image/png'
+		},
+		{
+			file: './images/summitLogo.svg',
+			url: '/images/summitLogo.svg',
+			type: 'image/svg+xml'
 		}
 	];
 
