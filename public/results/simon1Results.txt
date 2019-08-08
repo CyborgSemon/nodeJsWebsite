@@ -1,0 +1,30 @@
+Simon results.
+
+Question 1: 2+2
+Your Answer: 4
+Actual answer: 4
+Correct!
+
+Question 2: 4+4
+Your Answer: 8
+Actual answer: 8
+Correct!
+
+Question 3: 8+8
+Your Answer: 16
+Actual answer: 16
+Correct!
+
+Question 4: 16+16
+Your Answer: 32
+Actual answer: 32
+Correct!
+
+
+Summery:
+Question 1: Correct!
+Question 2: Correct!
+Question 3: Correct!
+Question 4: Correct!
+
+You got a total of 4 / 4.
